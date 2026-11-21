@@ -1,0 +1,21 @@
+id,name,price,category,description,image,stock
+1,Apple MacBook Pro 14 Inch,1999.99,Laptops,"14-inch Liquid Retina display, M-series chip and all-day battery life for professional work.",https://cdn.dummyjson.com/product-images/laptops/apple-macbook-pro-14-inch-space-grey/thumbnail.webp,15
+2,Lenovo Yoga 920,1099.99,Laptops,"Convertible 2-in-1 laptop with a 13.9-inch touchscreen and slim aluminium body.",https://cdn.dummyjson.com/product-images/laptops/lenovo-yoga-920/thumbnail.webp,20
+3,Dell XPS 13,1499.99,Laptops,"Ultra-portable 13-inch laptop with an InfinityEdge display and long battery life.",https://cdn.dummyjson.com/product-images/laptops/new-dell-xps-13-9300-laptop/thumbnail.webp,18
+4,iPhone 13 Pro,1099.99,Smartphones,"Pro camera system, ProMotion display and A15 Bionic chip.",https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/thumbnail.webp,25
+5,Samsung Galaxy S10,699.99,Smartphones,"6.1-inch Dynamic AMOLED display with a triple rear camera.",https://cdn.dummyjson.com/product-images/smartphones/samsung-galaxy-s10/thumbnail.webp,30
+6,Realme XT,349.99,Smartphones,"64MP quad camera phone with a 6.4-inch Super AMOLED display.",https://cdn.dummyjson.com/product-images/smartphones/realme-xt/thumbnail.webp,40
+7,Samsung Galaxy Tab S8 Plus,599.99,Tablets,"12.4-inch sAMOLED tablet with S Pen support for notes and drawing.",https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-s8-plus-grey/thumbnail.webp,12
+8,Apple AirPods,129.99,Accessories,"Wireless earbuds with quick pairing and a charging case.",https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods/thumbnail.webp,60
+9,Beats Flex Wireless Earphones,49.99,Accessories,"Lightweight neckband earphones with up to 12 hours of listening.",https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp,75
+10,MagSafe Battery Pack,99.99,Accessories,"Snap-on magnetic battery pack for on-the-go charging.",https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/thumbnail.webp,35
+11,Brown Leather Belt Watch,89.99,Watches,"Classic analog watch with a genuine brown leather strap.",https://cdn.dummyjson.com/product-images/mens-watches/brown-leather-belt-watch/thumbnail.webp,22
+12,Classic Sun Glasses,24.99,Fashion,"Timeless frame with UV400 protection lenses.",https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/thumbnail.webp,80
+13,Puma Future Rider Trainers,89.99,Fashion,"Retro-inspired running trainers with a cushioned sole.",https://cdn.dummyjson.com/product-images/mens-shoes/puma-future-rider-trainers/thumbnail.webp,28
+14,Table Lamp,49.99,Home,"Warm-light bedside lamp with a fabric shade.",https://cdn.dummyjson.com/product-images/home-decoration/table-lamp/thumbnail.webp,45
+15,Knoll Executive Conference Chair,499.99,Home,"Ergonomic executive chair with a swivel base and padded seat.",https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp,8
+16,Microwave Oven,89.99,Kitchen,"Compact 20L microwave with multiple power levels and a defrost mode.",https://cdn.dummyjson.com/product-images/kitchen-accessories/microwave-oven/thumbnail.webp,16
+17,Hand Blender,34.99,Kitchen,"Stainless steel immersion blender for soups, smoothies and sauces.",https://cdn.dummyjson.com/product-images/kitchen-accessories/hand-blender/thumbnail.webp,50
+18,Cricket Bat,29.99,Sports,"English willow cricket bat with a cushioned grip.",https://cdn.dummyjson.com/product-images/sports-accessories/cricket-bat/thumbnail.webp,30
+19,Tennis Racket,49.99,Sports,"Lightweight graphite racket for control and power.",https://cdn.dummyjson.com/product-images/sports-accessories/tennis-racket/thumbnail.webp,25
+20,Basketball,14.99,Sports,"Official size 7 indoor/outdoor rubber basketball.",https://cdn.dummyjson.com/product-images/sports-accessories/basketball/thumbnail.webp,3

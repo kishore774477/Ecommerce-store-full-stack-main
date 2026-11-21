@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.git/
+.claude/
+.pytest_cache/
+data/raw/
+data/processed/
